@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahoj! 👋 Jsem Alena
+# Ahoj! 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Fullstack+v%C3%BDvoj%C3%A1%C5%99ka+%F0%9F%87%A8%F0%9F%87%BF;Mobiln%C3%AD+aplikace+%C2%B7+Web+%C2%B7+Backend;React+Native+%7C+React+%7C+Spring+Boot" alt="Typing SVG" />
 
@@ -26,7 +26,7 @@
 
 ### 👩‍💻 O mně
 
-Jsem fullstack vývojářka z **České republiky** 🇨🇿 se zaměřením na **mobilní a webové aplikace**.
+Jmenuji se Alena Kašparová a jsem fullstack vývojářka z **České republiky** 🇨🇿 se zaměřením na **mobilní a webové aplikace**.
 Tvořím kompletní řešení od návrhu po nasazení — od Expo mobilních appek přes React webové dashboardy až po Spring Boot API.
 
 ---
